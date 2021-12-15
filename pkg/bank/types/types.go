@@ -21,4 +21,5 @@ type Card struct {
 	Color      string
 	Name       string
 	Active     bool
+	Country	   string
 }
